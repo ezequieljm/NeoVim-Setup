@@ -1,4 +1,4 @@
-# Neovim-setup for Linux
+# Neovim-setup for Linux by ezequieljm
 Neovim is a terminal-based code editor that you can download from its official website.
 If you want this config, you can to clone this repository in your machine with next command
 ```
