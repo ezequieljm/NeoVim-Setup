@@ -35,6 +35,8 @@ set termguicolors
 
 "Current Theme
 set background=dark
+let g:sonokai_style = 'andromeda'
+let g:sonokai_enable_italic = 1
 colorscheme sonokai
 "*********************************************************************************************************************************
 "Airline
@@ -43,7 +45,7 @@ let g:airline#extensions#tabline#enabled = 1  " Display buffers opened
 let g:airline#extensions#tabline#fnamemod = ':t'  " Diplay only the name of file
 let g:airline_powerline_fonts = 1 "Change the separators at triangles
 
-let g:airline_theme = "sonokai" "Them of airline
+let g:airline_theme = 'sonokai'
 "*********************************************************************************************************************************
 "DevIcons 
 
