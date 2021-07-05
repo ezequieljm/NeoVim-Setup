@@ -5,6 +5,7 @@ call plug#begin('~/.vim/plugged')
 "Themes
 Plug 'sheerun/vim-polyglot'
 Plug 'sainnhe/sonokai'
+Plug 'joshdick/onedark.vim'
 
 "Visual
 Plug 'vim-airline/vim-airline'
@@ -35,9 +36,9 @@ set termguicolors
 
 "Current Theme
 set background=dark
-let g:sonokai_style = 'andromeda'
+let g:sonokai_style = 'maia'
 let g:sonokai_enable_italic = 1
-colorscheme sonokai
+colorscheme onedark
 "*********************************************************************************************************************************
 "Airline
 
@@ -45,7 +46,7 @@ let g:airline#extensions#tabline#enabled = 1  " Display buffers opened
 let g:airline#extensions#tabline#fnamemod = ':t'  " Diplay only the name of file
 let g:airline_powerline_fonts = 1 "Change the separators at triangles
 
-let g:airline_theme = 'sonokai'
+let g:airline_theme = 'onedark'
 "*********************************************************************************************************************************
 "DevIcons 
 
