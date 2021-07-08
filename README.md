@@ -4,4 +4,4 @@ If you want this config, you can to clone this repository in your machine with n
 ```
 $ git clone https://github.com/ezequieljm/Neovim-setup.git
 ```
-Then run `:PlugInstall` and refresh neovim. Note, you must have installed vim-plug necessarily.
+Then run `:PlugInstall` and refresh neovim. Note, you must have python, nodejs and vim-plug installed previously.
