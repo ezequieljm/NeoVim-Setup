@@ -19,5 +19,3 @@ autocmd BufLeave *.{js,jsx,ts,tsx} :syntax sync clear
 
 
 
-
-

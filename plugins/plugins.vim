@@ -11,6 +11,7 @@ Plug 'joshdick/onedark.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
+"Plug 'Yggdroot/indentLine'
 
 "Funtionality
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
